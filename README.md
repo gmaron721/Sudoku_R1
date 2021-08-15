@@ -10,7 +10,7 @@
 Для Linux https://download-chromium.appspot.com/?platform=Linux_x64&type=snapshots
 
 ##### 2) ChromeDrivers 
-https://chromedriver.storage.googleapis.com/index.html?path=92.0.4515.43/
+https://chromedriver.storage.googleapis.com/index.html
 
 Расположить внутри Chromium по пути ./Resources/chrome-win/chromedriver.exe (Аналогично для Linux)
 
