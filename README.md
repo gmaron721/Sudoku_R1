@@ -3,7 +3,9 @@
 #### Для работы потребуется:
 
 ##### 1) Chromium 
-Для Windows https://download-chromium.appspot.com/(https://commondatastorage.googleapis.com/chromium-browser-snapshots/index.html?prefix=Win_x64/)
+Для Windows https://download-chromium.appspot.com/
+
+https://commondatastorage.googleapis.com/chromium-browser-snapshots/index.html?prefix=Win_x64/
 
 Расположить по пути ./Resources/chrome-win
 
